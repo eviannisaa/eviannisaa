@@ -1,5 +1,4 @@
-## Hi there 👋 
-
+Hi there 👋 
 I'm a passionate Frontend Developer dedicated to crafting pixel-perfect designs and seamless user interactions
 
 <!--
