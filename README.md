@@ -1,4 +1,6 @@
-## Hi there 👋 I'm a passionate Frontend Developer dedicated to crafting pixel-perfect designs and seamless user interactions
+## Hi there 👋 
+
+I'm a passionate Frontend Developer dedicated to crafting pixel-perfect designs and seamless user interactions
 
 <!--
 **eviannisaa/eviannisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
